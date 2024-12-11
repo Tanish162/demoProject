@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inquiry management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="enquiry">Enquiry</string>
+    <string name="form">Form</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="number_1_2_3_value">Number (1,2,3...) Value</string>
+    <string name="decimal_4_52_value">Decimal (4.52) Value</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="textarea_value">Textarea Value</string>
+    <string name="enter_lat">Enter Lat</string>
+    <string name="select_date">Select Date</string>
+    <string name="i_agree_to_the_terms_and_conditions_as_set_out_by_the_user_agreement">I agree to the terms and conditions as set out by the user agreement</string>
+    <string name="submit">Submit</string>
+    <string name="select">Select</string>
+</resources>
